@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recents Fixer</string>
+
+    <string name="kill_now">Kill Pixel Launcher Now</string>
+    <string name="start_work">Start Killing Pixel Launcher</string>
+    <string name="stop_work">Stop Killing Pixel Launcher</string>
+    <string name="work_state_running">Killing Pixel Launcher\nevery 20 minutes</string>
+    <string name="work_state_not_available">Periodic killing\nis not enabled</string>
+</resources>
